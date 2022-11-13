@@ -1,0 +1,7 @@
+tsp_6.txt	100	132
+tsp_10.txt	100	212
+tsp_12.txt	50	264
+tsp_13.txt	25	269
+tsp_14.txt	25	282
+tsp_15.txt	5	291
+tsp_17.txt	1	39
